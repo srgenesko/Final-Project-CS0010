@@ -1,6 +1,6 @@
 # Final-Project-CS0010
 
-Team Name: 
+Team Name: Crime and Fire
 
 Mridula Kanakavelan: MRK129@pitt.edu
 
